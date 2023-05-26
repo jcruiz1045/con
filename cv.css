@@ -1,0 +1,67 @@
+body{
+    background-image: url('Mi\ Currículum\ Material\ De\ Antecedentes.jpg');
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 30px;
+}
+
+.inf-personal{
+    /*background-color: aqua; */
+    margin: 5px;
+    padding: 5px;
+    text-align: right;
+    
+}
+.caracter-1{
+    margin: 2px;
+    padding: 2px;
+    text-decoration: none; 
+}
+.caracter-2{
+    margin: 2px;
+    padding: 2px;    
+    text-decoration: none;
+}
+.caracter-3{
+    margin: 2px;
+    padding: 2px;
+    text-decoration: none;
+}
+.caracter-4{
+    margin: 2px;
+    padding: 2px;
+    text-decoration: none;
+}
+.img{
+    text-align: center;    
+}
+.image-profile{
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+}
+.skills{
+    list-style-type: none;
+    text-align: center;
+}
+.familia{
+    width: 520px;
+    height: 420px;  
+    border-radius: 50px; 
+    border: solid black;
+}
+.imagen-familiar{
+    text-align: center;
+}
+.exp-laboral{
+    list-style-type: none;
+}
+.formacion-academica{
+    list-style-type: none;
+}
+p{
+    padding-right: 200px;
+}
